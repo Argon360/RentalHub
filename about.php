@@ -103,7 +103,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="box">
          <div class="user">
-            <img src="images/pic-2.png" alt="">
+            <img src="images/pic-1.png" alt="">
             <div>
                <h3>Harmanpreet Kandiyara</h3>
                <div class="stars">
@@ -120,7 +120,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="box">
          <div class="user">
-            <img src="images/pic-3.png" alt="">
+            <img src="images/pic-1.png" alt="">
             <div>
                <h3>Akash Rawat</h3>
                <div class="stars">
@@ -137,7 +137,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="box">
          <div class="user">
-            <img src="images/pic-4.png" alt="">
+            <img src="images/pic-1.png" alt="">
             <div>
                <h3>Siddhesh Shinde</h3>
                <div class="stars">
@@ -154,7 +154,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="box">
          <div class="user">
-            <img src="images/pic-5.png" alt="">
+            <img src="images/pic-1.png" alt="">
             <div>
                <h3>Sandeep Jadyar</h3>
                <div class="stars">
@@ -171,7 +171,7 @@ if(isset($_COOKIE['user_id'])){
 
       <div class="box">
          <div class="user">
-            <img src="images/pic-6.png" alt="">
+            <img src="images/pic-1.png" alt="">
             <div>
                <h3>Garry</h3>
                <div class="stars">
